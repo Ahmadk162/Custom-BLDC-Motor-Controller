@@ -15,8 +15,8 @@ Insert image or 3D render of your PCB here if available
 
 🛠️ Tools Used
 PCB Design: EasyEDA
-![2D](offoff.jpg)
-![Schematic](offoff.jpg)
+![2D](lms.png)
+![Schematic](lmt.png)
 
 Target Application: Motor control projects, robotics, educational platforms
 
